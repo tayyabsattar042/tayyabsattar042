@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab Sattar</h1>
-<div align="center"> <img src="https://github.com/tayyabsattar042/README.md/blob/efbea23b1301123f9645c8c8972a1a01c3b4ee13/banner2.png"> </div>
+<div align="center"> <img src="https://drive.google.com/file/d/1CGO8gVStFToC23HI9RuMmIY69LYCDFgz/view?usp=drive_link"> </div>
 
 <h3 align="center">A passionate Front End Web Developer and DevOps Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
