@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab Sattar</h1>
 <div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQHv2en5uQVtJw/profile-displaybackgroundimage-shrink_350_1400/0/1693664036712?e=1698883200&v=beta&t=RMLNnrV7KPIIxmuP4XoBAXHHNuDK88RHu3cXnnJB8vc"> </div>
 
-<h3 align="center">A passionate Front End Web Developer and DevOps Developer from Pakistan</h3>
+<h3 align="center">A passionate Front End Web Developer and DevOps Engineer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 
