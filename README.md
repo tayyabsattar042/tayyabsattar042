@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab Sattar</h1>
-<div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQHv2en5uQVtJw/profile-displaybackgroundimage-shrink_350_1400/0/1693664036712?e=1698883200&v=beta&t=RMLNnrV7KPIIxmuP4XoBAXHHNuDK88RHu3cXnnJB8vc"> </div>
+<div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQFQ09wdNHIrZQ/profile-displaybackgroundimage-shrink_350_1400/0/1694505861418?e=1700092800&v=beta&t=6zAQO9bLdKi8mDArcRKV2vQ9E7bMIhfZh9G6b-GlXpU"> </div>
 
 <h3 align="center">A passionate Front End Web Developer and DevOps Engineer from Pakistan</h3>
 
