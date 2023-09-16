@@ -5,7 +5,8 @@
 <h3 align="center">A Passionate Front End Web Developer & DevOps Engineer From Pakistan</h3>
 
 
-<iframe aligen="left" src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="480" height="302" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">via GIPHY</a></p>
+<iframe aligen="left" src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="480" height="302" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabsattar042&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabsattar042" /> </p>
 
 - 🔭 I’m currently working on **ReactJS to make Amazing website**
