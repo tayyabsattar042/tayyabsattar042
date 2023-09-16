@@ -5,7 +5,7 @@
 <h3 align="center">A Passionate Front End Web Developer & DevOps Engineer From Pakistan</h3>
 
 
-<iframe aligen="left" src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="480" height="302" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img aligen="left" src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="480" height="302" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabsattar042&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabsattar042" /> </p>
 
