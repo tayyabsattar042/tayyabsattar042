@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Web development with ReactJS and DevOps**
 
-- 👨‍💻 All of my projects are available at (https://drive.google.com/drive/folders/1SCi6sfrhNM6SXWp_n7LRpqDEEqdzmLEg?usp=drive_link)
+- 👨‍💻 All of my projects are available at (https://bit.ly/44W9l0m)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Reactjs, DevOps, AWS,CI/CD Pipelining,Git etc.**
 
 - 📫 How to reach me **tayyabsattar455@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/drive/folders/1SCi6sfrhNM6SXWp_n7LRpqDEEqdzmLEg?usp=drive_link)
+- 📄 Know about my experiences (https://bit.ly/44W9l0m)
 
 - ⚡ Fun fact **I am passionate, innovative and tech lover**
 
