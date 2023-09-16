@@ -14,13 +14,13 @@
 
 - 👨‍💻 All of my projects are available at (https://bit.ly/44W9l0m)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Reactjs, DevOps, AWS,CI/CD Pipelining,Git etc.**
-
 - 📫 How to reach me **tayyabsattar455@gmail.com**
 
 - 📄 Know about my experiences (https://bit.ly/44W9l0m)
 
 - ⚡ Fun fact **I am passionate, innovative and tech lover**
+
+- - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Reactjs, DevOps, AWS,CI/CD Pipelining,Git etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
