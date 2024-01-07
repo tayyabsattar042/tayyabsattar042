@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab Sattar</h1>
 <div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQH0zCFwWeQOew/profile-displaybackgroundimage-shrink_350_1400/0/1694860794243?e=1709769600&v=beta&t=UpvKomaTj1nCvho8LMe938d6kNOXnPIf18MIuTGhJUY"> </div>
 
-<h3 align="center">A Passionate Front End Web Developer & DevOps Engineer From Pakistan</h3>
+<h3 align="center">A Passionate DevOps Engineer & Front End Web Developer From Pakistan</h3>
 
 # ⚡️ Profile Views:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabsattar042&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabsattar042" /> </p>
 <br>
 
 # 💫 About Me:
-🔭 I’m currently working on ReactJS to make Amazing website<br><br>🌱 I’m currently learning Web development with ReactJS and DevOps<br><br>👨‍💻 All of my projects are available at (https://bit.ly/44W9l0m)<br><br>📫 How to reach me tayyabsattar455@gmail.com<br><br>📄 Know about my experiences (https://bit.ly/44W9l0m)<br><br>⚡ Fun fact I am passionate, innovative and tech lover<br><br>💬 Ask me about HTML, CSS, Bootstrap, JavaScript, Reactjs, DevOps, AWS,CI/CD Pipelining,Git etc.
+🔭 I’m currently working on DevOps technologies<br><br>🌱 I’m currently learning DevOps and Some Web development. <br><br>📫 How to reach me tayyabsattar455@gmail.com<br><br>⚡ Fun fact I am passionate, innovative and tech lover<br><br>💬 Ask me about DevOps, AWS,CI/CD Pipelining,Git Jenkins,Kubernetes and HTML, CSS, Bootstrap, JavaScript, Reactjs, etc.
 <br>
 
 ## 🌐 Socials:
