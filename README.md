@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab Sattar</h1>
 <div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQHIslFGOa5jkg/profile-displaybackgroundimage-shrink_350_1400/0/1707117143699?e=1712793600&v=beta&t=EdJHPWeFtsGP9oIpe_hoowGhp1UHo1BJDFQSbKt9gbs"> </div>
 
-<h3 align="center">A Passionate DevOps Engineer & Front End Web Developer From Pakistan</h3>
+<h3 align="center">A Passionate DevOps Engineer & Front End Web Developer </h3>
 
 # ⚡️ Profile Views:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabsattar042&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabsattar042" /> </p>
