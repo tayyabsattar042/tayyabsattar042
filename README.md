@@ -5,7 +5,6 @@
 
 # ⚡️ Profile Views:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabsattar042&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabsattar042" /> </p>
-<br>
 
 # 💫 About Me:
 🔭 I’m currently working on DevOps technologies<br><br>🌱 I’m currently learning DevOps and Some Web development. <br><br>📫 How to reach me tayyabsattar455@gmail.com<br><br>⚡ Fun fact I am passionate, innovative and tech lover<br><br>💬 Ask me about DevOps, AWS,CI/CD Pipelining,Git Jenkins,Kubernetes and HTML, CSS, Bootstrap, JavaScript, Reactjs, etc.
