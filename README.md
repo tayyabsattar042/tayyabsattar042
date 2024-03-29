@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab Sattar</h1>
-<div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQG4Nu7iNqPfZw/profile-displaybackgroundimage-shrink_350_1400/0/1711469588367?e=1717027200&v=beta&t=c-eQ8w7aB1rdpMkrUAZ8YlZTXO5d5bZkygFcx1jgOiQ"> </div>
+<div align="center"> <img src="https://media.licdn.com/dms/image/D4E16AQEsvxLjwUTC0g/profile-displaybackgroundimage-shrink_350_1400/0/1711730811229?e=1717027200&v=beta&t=46mnndC8853M1PteeNW1uHYpEK2BZYyei43jhJ5uGwY"> </div>
 
 <h3 align="center">A Passionate DevOps Engineer </h3>
 
