@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabsattar042&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabsattar042" /> </p>
 
 # 💫 About Me:
-✅ Currently, I am dedicated to advancing my expertise in DevOps technologies.<br><br>✅ My ongoing learning pursuits include deepening my knowledge in DevOps methodologies. <br><br>✅ For professional inquiries or collaboration opportunities,feel free to reach out to me at tayyabsattar423@gmail.com.<br><br>✅ A passionate and innovative individual with a profound love for technology. <br><br>✅ Specialized areas of knowledge encompass DevOps, AWS, CI/CD Pipelining, Git, Jenkins, Kubernetes, as well as proficiency in HTML, CSS, Bootstrap, JavaScript etc.
+✅ Currently, I am dedicated to advancing my expertise in DevOps technologies.<br><br>✅ My ongoing learning pursuits include deepening my knowledge in DevOps methodologies. <br><br>✅ Feel free to reach out to me at tayyabsattar423@gmail.com.<br><br>✅ A passionate and innovative individual with a profound love for technology. <br><br>✅ Specialized areas of knowledge encompass DevOps, AWS, CI/CD Pipelining, Git, Jenkins, Kubernetes, as well as proficiency in HTML, CSS, Bootstrap, JavaScript etc.
 <br>
 <p align="centre"> Let's connect and explore the exciting intersections of technology and innovation! </p>
 
