@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab Sattar</h1>
 
-<div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQH9apSLWxGktw/profile-displaybackgroundimage-shrink_350_1400/0/1713949389757?e=1719446400&v=beta&t=kpsumm3gROwKJzAk1aFDDPS1RfysqXqSsD7k6IA8en8"> </div>
+<div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQH9apSLWxGktw/profile-displaybackgroundimage-shrink_350_1400/0/1713949389757?e=1726099200&v=beta&t=seKg4RjJpk7vTZ8Gg9QGrPDyZOqsGLdL7TULryb4TlA"> </div>
 
 <h3 align="center"> A Passionate DevOps Engineer with skills and knowledge in automation, cloud computing, and continuous integration and delivery to manage and optimize the IT infrastructure of the company. I work with tools such as Git, Docker, AWS, Jenkins, Bash Scripting, Linux Commands, CI / CD, Basic Kubernetes,Azure and Terraform to ensure the reliability, scalability, and security of the systems and applications.</h3>
 
