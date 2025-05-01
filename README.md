@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab Sattar</h1>
 
-<div align="center"> <img src="https://media.licdn.com/dms/image/v2/D4E16AQGOdT3cKGR5xw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724759090400?e=1744848000&v=beta&t=MTRU0HCh3IUiudHM7Scso6CYJnDCSvrK-bQL_yWyoro"> </div>
+<div align="center"> <img src="https://media.licdn.com/dms/image/v2/D4E16AQGOdT3cKGR5xw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724759090400?e=1751500800&v=beta&t=zfcxlIO8lu697v6Nu6MJxEFbdN9FaWgnzdwpyNF0zJs"> </div>
 
 
 
