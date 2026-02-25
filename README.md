@@ -1,44 +1,131 @@
-<h1 align="center">Hi 👋, I'm Muhammad Tayyab Sattar</h1>
+<div align="center">
 
-<div align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D16AQEef7Tu6X7cDQ/profile-displaybackgroundimage-shrink_350_1400/B4DZwza.q.H4AY-/0/1770389253459?e=1772064000&v=beta&t=QmqLJaxVYvlK30db8uMMZGknEQ_oK7DremctzOqnEsA"> </div>
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Tayyab%20Sattar&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Junior%20DevOps%20Engineer&descAlignY=58&descSize=20&animation=fadeIn"/>
 
+<!-- Badges Row -->
+<img src="https://komarev.com/ghpvc/?username=tayyabsattar042&label=Profile+Views&color=2c5364&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/mtayyabsattar/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:tayyabsattar423@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-
-# ⚡️ Profile Views:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabsattar042&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabsattar042" /> </p>
-
-# 💫 About Me:
-👋 Hi, I'm Muhammad Tayyab Sattar...<br><br> ✅ I am a DevOps Engineer, I have skills and knowledge in automation and continuous integration and delivery to streamline IT infrastructure for maximum efficiency.<br><br>✅  I work with tools such as Git, Docker, AWS, Jenkins, Bash Scripting, Linux Commands, CI / CD, Basic Kubernetes, Basic Terraform to ensure the reliability, scalability, and security of the systems and applications and working on learning more DevOps in Progress.... <br><br> ✅ Beyond my devops perosna, I am a lifelong learner, consistently upgrading my skills to stay relevant in the ever-evolving tech industry. My certifications in AWS Cloud Technical Essentials from Coursera, Docker For Absolute Beginners from Coursera, DevOps on AWS: Code, Build and Test from Coursera, Version Control with Git from Coursera.<br><br>✅ I am passionate about learning new technologies and methodologies in the DevOps field.<br><br>✅ Feel free to reach out to me at tayyabsattar423@gmail.com.<br><br>✅ A passionate and innovative individual with a profound love for DevOps. <br>
-<p align="centre"> Let's connect and explore the exciting intersections of technology and innovation! </p>
-
-## 🌐 Socials:
-<div align="left">
-  <a href="https://www.linkedin.com/in/mtayyabsattar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="tayyabsattar423@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
-<br>
 
-# 💻 Tech Stack:
+---
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-# 📊 GitHub Stats:
+```yaml
+name        : Muhammad Tayyab Sattar
+role        : Junior DevOps Engineer
+location    : Pakistan
+focus       : Automation · CI/CD · Cloud Infrastructure
+status      : Continuously learning & growing 🚀
+contact     : tayyabsattar423@gmail.com
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabsattar042&" alt="tayyabsattar042" /></p>
+I'm a passionate Junior DevOps Engineer with a strong foundation in automating workflows, managing cloud infrastructure, and building reliable CI/CD pipelines. I believe in the power of collaboration between development and operations to ship software faster and more reliably.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayyabsattar042&show_icons=true&locale=en&layout=compact" alt="tayyabsattar042" /></p>
+Currently expanding my skills in **Kubernetes**, **Terraform**, and **Cloud-Native DevOps** practices.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayyabsattar042&show_icons=true&locale=en" alt="tayyabsattar042" /></p>
+---
 
-# 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=tayyabsattar042&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+## 🛠️ Tech Stack & Tools
 
-# ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-<br>
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔧 DevOps & Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🖥️ OS & Version Control
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🌐 Web Basics
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+| 🏆 Certification | 🏫 Platform |
+|---|---|
+| AWS Cloud Technical Essentials | Coursera |
+| Docker For Absolute Beginners | Coursera |
+| DevOps on AWS: Code, Build and Test | Coursera |
+| Version Control with Git | Coursera |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayyabsattar042&show_icons=true&theme=dark&bg_color=0f2027&title_color=4fc3f7&icon_color=4fc3f7&text_color=ffffff&border_color=2c5364&count_private=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabsattar042&layout=compact&theme=dark&bg_color=0f2027&title_color=4fc3f7&text_color=ffffff&border_color=2c5364"/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabsattar042&theme=dark&background=0f2027&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7&sideLabels=ffffff&dates=aaaaaa&border=2c5364"/>
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=tayyabsattar042&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 📈 My DevOps Journey
+
+```
+2023 ──────────────────────────────────────────────────────► Present
+  │
+  ├── ✅ Learned Linux fundamentals & Bash scripting
+  ├── ✅ Mastered Git & Version Control workflows
+  ├── ✅ Completed AWS Cloud & Docker certifications
+  ├── ✅ Built CI/CD pipelines with Jenkins
+  ├── ✅ Containerized applications with Docker
+  ├── 🔄 Learning Kubernetes orchestration
+  └── 🔄 Exploring Terraform & Infrastructure as Code
+```
+
+---
+
+## 💡 What I'm Currently Learning
+
+- 🔵 **Advanced Kubernetes** — Deployments, Services, Helm Charts
+- 🟣 **Terraform** — Infrastructure as Code at scale
+- 🟠 **AWS Advanced Services** — EKS, ECS, CloudFormation
+- 🟢 **Monitoring & Observability** — Prometheus, Grafana
+
+---
+
+<div align="center">
+
+### 💬 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+*⭐ If you find my work helpful, consider giving a star to my repositories!*
+
+</div>
