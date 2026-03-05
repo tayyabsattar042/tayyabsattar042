@@ -57,7 +57,6 @@ I am actively seeking **DevOps Engineer**, **Cloud Engineer**, **Site Reliabilit
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20IAM%20%7C%20VPC%20%7C%20EKS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud%20Infrastructure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🔧 DevOps & Automation Tools
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
