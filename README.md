@@ -25,7 +25,7 @@
 
 > **Available for: Full-time roles · Remote · Relocation · Contract**
 
-I'm **Muhammad Tayyab Sattar**, a **DevOps Engineer** based in **Pakistan**, with hands-on experience across **cloud infrastructure (AWS, Azure, GCP)**, **container orchestration (Docker, Kubernetes)**, **CI/CD pipeline automation (Jenkins)**, and **Infrastructure as Code (Terraform)**. I graduated in **2023** and since then have completed **three internships** — one in **web development** and **two in DevOps engineering** — where I built and maintained real-world pipelines, containerized applications, and automated deployment workflows.
+I'm **Muhammad Tayyab Sattar**, a **DevOps Engineer** based in **Pakistan**, with hands-on experience across **cloud infrastructure (AWS)**, **container orchestration (Docker, Kubernetes)**, **CI/CD pipeline automation (Jenkins)**, and **Infrastructure as Code (Terraform)**. I graduated in **2023** and since then have completed **three internships** — one in **web development** and **two in DevOps engineering** — where I built and maintained real-world pipelines, containerized applications, and automated deployment workflows.
 
 I am actively seeking **DevOps Engineer**, **Cloud Engineer**, **Site Reliability Engineer (SRE)**, or **Platform Engineer** roles — both **locally in Pakistan** and **internationally / remote**.
 
